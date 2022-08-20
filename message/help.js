@@ -74,8 +74,8 @@ exports.otherMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}img2url _reply image_
 き⃟🌊. ${prefix}ytsearch _query_
 
-© 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+© 𝑺𝑪 Recode By Praszz
+*Subs My Channel : Prasz*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
 }
@@ -236,12 +236,12 @@ KELEBIHAN BOTZ
 ▢ BOT NO PASARAN
 
 LIST HARGA SEWA BOTZ
-▢ PERHARI 2K
+▢ PERHARI 3K
 ▢ PERMINGGU 5K
-▢ PERBULAN 15K
-▢ PERMANEN 40K
+▢ PERBULAN 8K
+▢ PERMANEN 12K
 MINAT HIBUNGI OWNER
-wa.me/6282287486762
+wa.me/6289666747744
 
 YG MAU TOP UP GAME MARI JOIN
 https://chat.whatsapp.com/KUb8JJwppqL3zLS7p9xXx7`
@@ -378,5 +378,5 @@ return`*「 TOOLS MENU 」*
 き⃟🌊. ${prefix}getstik
    
 © 𝑺𝑪 𝑶𝒓𝒊 𝒃𝒚 𝑿𝒓𝒖𝒕𝒛 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍
-*Subs My Channel : Xrutz Official*
+*Subs My Channel : Prasz Official*
 *Ketik ${prefix}allmenu biar gak ribet xixi*`}
